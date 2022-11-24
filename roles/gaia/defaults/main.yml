@@ -141,7 +141,7 @@ reboot: true
 # Vars with no defaults (to prevent code from running)
 # These don't get put into config files
 # genesis_url: ""
-# genesis_file: ""
+genesis_file: "/home"
 # addrbook_file: ""
 # addrbook_url: "https://quicksync.io/addrbook.cosmos.json"
 # node_key_file: ""
